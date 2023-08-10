@@ -1,6 +1,6 @@
 # Portfolio
 
-Deployed : https://ankush-nandal.github.io/Portfolio/
+Deployed : 
 
 About:- in the portfolio i used HTML and CSS .
 i used css properties to make it look better.and create manny portions. 
